@@ -5,7 +5,7 @@ tools to bruteforcing facebook account in universe
 • Perbaikan bug dengan mengurangi password otomatis .<br>
 
 # Preview
-<img src="https://github.com/Madd-KW/CAF/blob/144db7334e76d92f64f203171d769738c2219cbc/ss_hasil.jpg" <br>
+<img src="https://user-images.githubusercontent.com/Madd-KW/CAF/blob/144db7334e76d92f64f203171d769738c2219cbc/ss_hasil.jpg" <br>
 
 # Install tools
       pkg upadate && pkg upgrade
